@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Feed Calculator</string>
+
+    <string name="variation_promt">Select Nutrients Recommendation</string>
+
+    <string-array name="variant_arrays">
+        <item>STARTER - 1 - 2 Weeks</item>
+        <item>STARTER - 3 - 4 Weeks</item>
+        <item>STARTER - 5 - 6 Weeks</item>
+    </string-array>
+
+    <string-array name="grower_arrays">
+        <item>GROWER - 7 - 8 Weeks</item>
+        <item>GROWER - 9 - 10 Weeks</item>
+        <item>GROWER - 11 - 12 Weeks</item>
+    </string-array>
+
+    <string-array name="developer_arrays">
+        <item>DEVELOPER - 13 - 14 Weeks</item>
+        <item>DEVELOPER - 15 - 16 Weeks</item>
+        <item>DEVELOPER - 17 - 18 Weeks</item>
+    </string-array>
+
+    <string-array name="layer1_arrays">
+        <item>LAYER1 - 19 - 26 Weeks</item>
+        <item>LAYER1 - 27 - 34 Weeks</item>
+        <item>LAYER1 - 35 - 42 Weeks</item>
+    </string-array>
+
+    <string-array name="layer2_arrays">
+        <item>LAYER2 - 43 - 44 Weeks</item>
+        <item>LAYER2 - 45 - 46 Weeks</item>
+        <item>LAYER2 - 47 - 48 Weeks</item>
+    </string-array>
+
+</resources>
